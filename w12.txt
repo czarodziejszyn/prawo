@@ -1,0 +1,99 @@
+Władza sądownicza:
+- zasada podziału władz
+- ustrój rzeczypospolitej polskiej opiera się na podziale i równowadze władzy ustawodawczej, władzy wykonawczej i władzy sądowniczej
+- władzę ustawodawczą sprawują sejm i senat, władzę wykonawczą prezydent rzeczypospolitej polskiej i rada ministrów, a władzę sądowniczą sądy i trybunały
+
+- wymiar sprawiedliwości
+- wymiar sprawiedliwości w rzeczypospolitej polskiej sprawują sąd najwyższy, sądy powszechne, sądy arnimistracyjne i wojskowe
+- sąd wyjątkowy lub tryb doraźny może być ustanowiony tylko na czas wojny
+
+trybunały:
+- trybunał konstytucyjny
+- trybunał stanu
+
+sąd najwyższy:
+- nadzór nad działalnością sądów powszechnych i wojskowych w zakresie orzekania
+- zapewnienie zgodności z prawem i jednolitości orzecznictwa sądów powszechnych i sądów wojskowych przez rozpoznawanie środków odwoławczych
+- podejmowanie uchwał rozstrzygających zagadnienia prawne
+- kontrola nadzwyczajna prawomocnych orzeczeń sądowych w celu zapewnienia ich zgodności z zasadą demokratycznego państwa prawnego
+- stwierdzanie ważności wyborów parlamentarnych i prezydenckich; protesty wyborcze
+
+sądy powszechne:
+- sądy rejonowe (319)
+- sądy okręgowe (47)
+- sądy apelacyjne (11)
+
+prawo do sądu:
+- każdy ma prawo do sprawiedliwego i jawnego rozpatrzenia sprawy bez nieuzasadnionej zwłoki przez właściwy, niezależny, bezstronny i niezawisły sąd
+- wyłączenie jawności rozprawy może nastąpić ze względu na moralność, bezpieczeństwo państwa i porządek publiczny oraz ze względu na ochronę życia prywatnego stron lub inny ważny interes prywatny, Wyrok ogłaszany jest publicznie.
+
+sądu administracyjne:
+- wojewódzkie sądy administracyjne (16)
+- naczelny sąd administracyjny (tylko decyzje administracyjne)
+- zasada skargowości
+
+sądy wojskowe:
+- wojskowy sąd garnizonowy (7)
+- wojskowy sąd okręgowy (2)
+- sąd najwyższy - izba karna
+
+procedura administracyjna i sądowoadministracyjna:
+- kodeks postępowania administracyjnego
+- prawo o postępowaniu przed sądami administracyjnymi
+- etap 1 - dwuinstancyjne postępowanie administracyjne (przed organem)
+- etap 2 - dwuinstancyjne postępowanie sądowe (sądy administracyjne)
+- po etapie 1 - decyzja wykonalna, ale nieostateczna
+- po etapie 2 - decyzja ostateczna (prawomocna)
+
+procedura administacyjna i sądowoadministracyjna:
+1. wniosek do organu
+2. decyzja organu
+3. odwołanie od decyzji (14 dni)
+4. decyzja organu II instancji
+5. skarga do WSA (30 dni)
+6. wyrok WSA (I instancja)
+7. wniosek o uzasadnienie (7 dni/ z urzędu)
+8. skarga do NSA (30 dni)
+9. wyrok NSA (II instancja)
+
+procedura cywilna:
+- tryb procesowy i nieprocesowy
+- inicjuje pozew lub wniosek
+- etap 1 - postępowanie przed sądem I instancji zakończone wyrokiem (prawomocnym)
+- etap 2 - postępowanie przed sądem II instancji zakończone wyrokiem (prawomocnym)
+- w niektórych sprawach etap 0 - wydanie nakazu zapłaty
+
+procedura cywilna:
+1. pozew / wniosek
+2. nakaz zapłaty
+3. sprzeciw / zarzuty od kanazu zapłaty (14 dni)
+4. postępowanie przed sądem I instancji
+5. wyrok sądu I instancji
+6. wniosek o uzasadnienie (7 dni)
+7. apelacja (14 dni)
+8. postępowanie przed sądem II instancji
+9. wyrok sądu II instancji
+10. wniosek o uzasadnienie (7 dni)
+11. skarga kasacynja (2 miesiące)
+
+procedura karna:
+- etap 0 - postępowanie przygotowawcze (w sprawie i przeciwko)
+- tryb procesowy
+- inicjuje akt oskarżenia lub wniosek o ukaranie
+- etap 1 - postępowanie przed sądem I instancji zakończone wyrokiem (nieprawomocnym)
+- etap 2 - postępowanie przed sądem II instancji zakończone wyrokiem (prawomocnym)
+
+procedura karna:
+1. postępowanie przygotowawcze w sprawie (in rem)
+2. postawienie zarzutów oskarżonemu
+3. postanowienie przygotowawcze przeciwko (in personam)
+4. akt oskarżenia (14 dni) / wniosek o ukaranie
+5. postępowanie przed sądem I instancji
+6. wyrok sądu I instancji
+7. wniosek o uzasadnienie (7 dni)
+8. apelacja (14 dni)
+9. postępowanie przed sądem II instancji
+10. wyrok sądu II instancji
+11. wniosek o uzasadnienie (7 dni)
+12. kasacja (30 dni)
+

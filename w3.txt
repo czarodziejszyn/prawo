@@ -1,0 +1,69 @@
+Przepisy prawa o charakterze wewnętrznym:
+- kierowane tylko do jednostek organizacyjnych podległych organowi wydającemu akty,
+- może zobowiązywać tylko te jednostki, nie może działać na zewnątrz,
+- wydawany w ramach ustawy określającej kompetencje organy,
+- nie mogą kolidować z unormowaniami prawa powszechnie obowiązującego
+
+Formy prowadzenia działalności gospodarczej:
+- jednoosobowa działalność gospodarcza,
+- spółka cywilna,
+- spółka jawna,
+- spółka partnerska,
+- spółka komandytowa,
+- spółka komandytowo-akcyjna,
+- spółka z ograniczoną odpowiedzialnością,
+- spółka akcyjna,
+- prosta spółka akcyjna
+
+wolność prowadzenia działalności gospodarczej:
+- z konstytucji art.: 20, 22, 2
+- 20: zasada społecznej gospodarki rynkowej,
+- 22: ograniczenie wolności działalności gospodarczej,
+- 2: wolność działalności gospodarczej i równości przedsiębiorców
+
+przedsiębiorca:
+- z konstytucji art. 4
+- definicja przedsiębiorcy
+
+jednoosobowa działalność gospodarcza:
+- zorganizowana działalność zarobkowa, wykonana we własnym imieniu i w sposób ciągły,
+- każdy dorosły obywatel polski, ue, eog,
+- spoza ue i eog - niezbędne zezwolenie na pobyt,
+- działalność prowadzona osobiście przez konkretną osobę (jedna osoba - jedna działalność),
+- rejestracja i ujawnienie w centralnej ewidencji i informacji o działalności gospodarczej (ceidg),
+- tożsamość podmiotu i osoby prowadzącej (brak odrębnej osobowości jak przy spółkach),
+- możliwość przekształcenia w jednoosobową spółkę kapitałową (sp.z o.o. lub S.A.)
+
+zalety:
+- brak kosztów założenia działalności gospodarczej,
+- brak wymogów tworzenia kapitału przedsiębiorstwa,
+- elastyczność w otwieraniu, zawieszaniu i likwidacji działalności gospodarczej,
+- możliwość optymalizacji podaktkowej poprzez wybór formy opłacania podatków,
+- niskie koszty obsługi księgowej,
+- ograniczone obowiązki sprawozdawcze.
+wady:
+- odpowiedzialność całym majątkiem za zobowiązania,
+- obowiązek odprowadzania składek na ubzepieczenia do ZUS,
+- konieczność podstawowej znajomości przepisów związanych z opodatkowaniem
+
+spółka cywilna:
+- nie jest to spółka w rozumieniu KSH,
+- umowa pomiędzy przedsiębiorcami prowadzącymi jednoosobową działalność gospodarczą, a takżę osobami prawnymi i ułomnymi osobami prawnymi,
+- w imieniu soółki działają wspólnicy, ponoszą też pełną odpowiedzialność za działąnia spółki (solidarny charakter odpowiedzialności),
+- brak obowiązku wniesienia wkładów przez wspólników,
+- majątek spółki stanowi współwłasność łączną,
+- możliwość przekształcenia w każdą spółkę prawa handlowego
+
+zalety:
+- umowa spółki cywilnej - zwykła forma pisemna,
+- niskie koszty założenia spółki cywilnej,
+- jednokrotne opodatkowanie wspólników (brak osobnego opodatkowania spółki),
+- możliwość skorzystania ze zwolnienia z VAT,
+- nieskomplikowane prowadzenie spraw spółki,
+- brak konieczności prowadzenia pełnej a nawet uproszczonej księgowości,
+- brak określenia minimalnej wartości wkładów,
+wady:
+- brak podmiotowości prawnej,
+- nieodpowiednia forma dla dużych przedsięwzięć,
+- odpowiedzialność  wspólników spólki cywilnej całym swoim majątkiem osobistym,
+- brak szczegółowych regulacji prawnych

@@ -1,0 +1,105 @@
+spółki kapitałowe:
+- sp. z o.o.
+- sa
+- psa
+
+- substrat - kapitał tworzący spółkę,
+- wspólnicy wnoszą odpowiedzialność tylko do wysokości wniesionego wkładu,
+- członkowie zarządu odpowiadają za zobowiązania spółki w okresie członkostwa w organie - substytucyjnie,
+- osoba prawna (nie mają charakteru ułomnej osoby prawnej - działają normalnie bez ograniczeń)
+
+spółka z ograniczoną odpowiedzialnością:
+- najpopularniejsza forma prowadzenia działalności jako spółka,
+- umowa w formie aktu notarialnego,
+- osobowość prawna,
+- majątek wspólników oddzielony od majątku spółki - wspólnicy nie ponoszą odpowiedzialności za zobowiązania spółki,
+- spółka działa za pośrednictwem organów - zarządu, zgromadzenia wpólników, rady nadzorczej lub komisji rewizyjnej,
+- minimalny kapitał zakładowy 5000zł,
+- wspólnicy mogą się zmieniać,
+- możliwość istnienia jednoosobowej spólki z ograniczoną odpowiedzialnością,
+- reprezentowana przez zarząd i / lub pełnomocników, prokurentów,
+- członkowie zarządu ponoszą odpowiedzialność za zobowiązania spółki
+
+spółka akcyjna:
+- z założenia przewidziana do dużych przedsięwzięć, daje możliwość uzyskania finansowania z zewnątrz (akcje),
+- umowa w formie aktu notarialnego, wiele czynności spółki także wymaga formy aktu notarialnego,
+- minimalny kapitał zakładowy 100.000 zł, podwyższenie wymaga zmiany umowy spółki (akt noratialny)
+- organy - zarząd, walne zgromadzenie, rada nadzorcza (obowiązkowa),
+- wspólnicy - akcjonariusze, którzy w zamian za wkład uzyskują prawo do dywidendy,
+- zarząd nie ponosi odpowiedzialności za zobowiązania spółki (poza zobowiązaniami podatkowymi),
+- dla niektórych przedsięwzięć spółka akcyjna jest wymagana - banki, towarzystwa ubezpieczeniowe, towarzystwa emerytlne,
+- akcjonariusze odpowiadają za zobowiązania spółki do wysokości wniesionego wkładu,
+- obowiązki sprawozdawcze - raporty bieżące i okresowe
+
+prosta spółka akcyjna:
+- najnowsza forma - od roku 2021,
+- uproszczona i tańsza forma, brak obowiązku powoływania rady nadzorczej,
+- prostsza forma pozyskiwania kapitału (możliwość ustanowienia akcji założycielskich, emisja akcji przez internet),
+- minimalny kapitał akcyjny 1 zł - podwyższenie nie wymaga zmiany umowy spółki,
+- możliwość objęcia akcji w zamian za wniesienie pracy,
+- możliwość zwrotu niewykorzystanego kapitał↓,
+- w imieniu spółki działa rada dyrektorów (połączebue zarządy i rady nadzorczej) albo zarząd i rada nadzorcza - do wyboru,
+- możliwość założenia przez system S24,
+- brak możliwości notowania na GPW
+
+działalność bez rejestracji:
+- drobna działalność zarobkowa osób fizycznych, która nie wymaga rejestracji firmy,
+- nie jest traktowana jak działalność gospodarcza, o ile uzyskane przychodzy nie przekroczą w żadnym miesiącu 75% minimalnego wynagrodzenia za pracę (w 2025 - 3499zł)
+
+rejestracja JDG:
+- wniosek o wpis w CEIDG (bezpłatnie)
+- zgłoszenie do GUD celemt nadania REGON
+- zgłoszenie do podatku VAT (druk VAT-R), ewentualnie VAT-UE
+- rejestracja dla celu podatku dochodowego
+- rejestracja w ZUS - przedsiębiorcy i ewentualnie pracowników
+- zgłoszenia za pośrednictwem CEIDG
+- pracownicy - zgłoszenie do powiatowej inspekcji pracy
+- sanepid
+- wybór metody prowadzenia księgowości i rozliczania
+- konto firmowe (należy zgłosić w CEIDG)
+
+rejestracja spółki jawnej:
+- umowa spółki w formie pisemnej (chyba, że inna forma wymagana z uwagi na rodzaj wkładu)
+- wniesienie wkładów
+- zgłoszenie do KRS (tylko online - PRS) - moment powstania spółki, NIP i REGON z automatu
+- możliwość zgłoszenia przez S24
+- PCC od umowy (0,5% wartości wkładów)
+- w ciągu 14 dni zgłoszenie do CRBR
+- spółka nie jest płatnikiem CIT (co do zasady) ani ZUS (chyba, że zatrudnia pracowników)
+- wspólnicy to przedsiębiorcy
+- obowiązkowe konto bankowe spółki
+
+rejestracja spółki komandytowej:
+- umowa w formie aktu notarialnego
+- wniesienie wkładów
+- zgłoszenie do KRS (tylko online - PRS) - moment powstania spółki, NIP i REGON z automatu
+- możliwość zgłoszenia przez S24 (bez notariusza)
+- PCC od umowy (0,5% wartości wkładów)
+- w ciągu 14 dni zgłoszenie do CRBR
+- spółka jest płatnikiem CIT (19%); nie jest płatnikiem ZUS (chyba, że zatrudnia pracowników)
+- wspólnicy to przedsiębiorcy
+- obowiązkowe konto bankowe spółki
+
+rejestracja spółki komandytowo-akcyjnej:
+- statut spółki w formie aktu notarialnego
+- wniesienie wkładów i pokrycie kapitału zakładowego (50.000zł) oraz objęcie akcji
+- zgłoszenie do KRS (tylko online - PRS) - moment powstania spółki, NIP i REGON z automatu
+- brak możliwości zgłoszenia przez S24 (bez notariusza)
+- PCC od umowy (0,5% wartości wkładów)
+- w ciągu 14 dni zgłoszenie do CRBR
+- spółka jest płatnikiem CIT (19%); nie jest płatnikiem ZUS (chyba, że zatrudnia pracowników)
+- wspólnicy to przedsiębiorcy
+- obowiązkowe konto bankowe spółki
+- obowiązkowa strona internetowa
+
+rejestracja prostej spółki akcyjnej:
+- umowa spółki (akt założycielski) w formie aktu notarialnego
+- wniesienie wkładów i pokrycie kapitału zakładowego (1 zł); minimalna wartość akcji - 1gr
+- powołanie zarządu i (nieobowiązkowo) rady nadzorczej, ewentualnie rady dyrektorów
+- zgłoszenie do KRS (tylko online - PRS) - moment powstania spółki, NIP i REGON z automatu (wcześniej funkcjonuje jako sp.z o.o. w organizacji)
+- możliwość zgłoszenia przez S24 (bez notariusza)
+- PCC od umowy (0,5% wartości wkładów)
+- w ciągu 14 dni zgłoszenie do CRBR
+- spółka jest płatnikiem CIT (19%); nie jest płatnikiem ZUS (chyba, że zatrudnia pracowników)
+- obowiązkowe konto bankowe spółki
+- obowiązkowa strona internetowa

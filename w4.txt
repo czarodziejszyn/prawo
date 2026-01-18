@@ -1,0 +1,53 @@
+spółka prawa handlowego:
+- uregulowane kompleksowo w kodeksie spółek handlowych,
+- zdolność prawna,
+- podział na spółki osobowe i spółki kapitałowe,
+- spółki osobowe - zrzeszają wspólników, działają za ich pośrednictwem, który ponoszą odpowiedzialność za działania spółki,
+- spółki kapitałowe - zrzeszają kapitał, działają za pośrednictwem swoich organów, których członkowie ponoszą odpowiedzialność za działania spółki (wspólnicy - tylko do wysokości wniesionego kapitału),
+- odpowiedzialność ma charakter subsydiarny,
+- podlegają ujawnieniu i rejestracji w krs,
+- opodatkowanie wpólników i spółki,
+- powstaje na podstawie umowy i wpisu w krs, może też w drodze przekształćania
+
+spółki osobowe:
+- spółka jawna, partnerska, komandytowa, komandytowo akcyjna
+- substrat - wspólnicy tworzący spółkę,
+
+spółka jawna:
+- ułomna osoba prawna,
+- majątek spółki osobny od majątku wpólników,
+- wspólnikiem spółki jawnej mogą być osoby fizyczne, osoby prawne i jednostki organizacyjne nie posiadające osobowości prawnej, w tym inne spółki handlowe, którym przysługuje zdolność prawna,
+- każdy wspólnik spółki jawnej odpowiada za jej zobowiązania bez ograniczenia całym swoim majątkiem solidarnie z pozostałymi wspólnikami oraz ze spółką - odpowiedzialność subsydiarna,
+- spółka powstaje na mocy umowy spółki (forma pisemna), z chwilą wpisu do krs,
+- każdy wspólnik reprezentuje spółkę - chyba że umowa wprowadza reprezentację łączną (także wraz z prokurentem),
+- wspólnicy uczestniczą w zyskach i stracach - równo lub inaczej, zgodnie z umową
+
+spółka partnerska:
+- forma wykonywania wolnych zawodów - jednego, wyjątkowo kilku (np. adwokat i radca prawny),
+- powstaje na podstawie umowy spółki (forma pisemna), po wpisie w krs,
+- spółkę reprezentują wspóllnicy (partnerzy - każda z osobna, chyba że umowa stanowi inaczej) lub odrębny zarząd (może być spoza wspólników),
+- zoboziązania spółki każdy wspólnik odpowiada bez ograniczenia całym swoim majątkiem osobistym i jest to odpowiedzialność nieograniczona, solidanra, o charakterze subsydiarnym,
+- za tzw. błąd w sztuce popełniony przez jednego z partnera inni partnerzy nie ponoszą odpowiedzialności,
+- inni partnerzy także nie ponoszą odpowiedzialności za błąd powstały w wyniku działań lub zaniechań osób zatrudnionych przez spółkę na podstawie umowy o pracę lub innego stosunku prawnego, którego podlegały kierownictwu innego partnera,
+- w przypadku zobowiązań, które nie wynikają z czynności zawodowych danego partnera, odpowiedzialność ponoszą wszyscy partnerzy
+
+spółka komandyrowa:
+- umowa spółki w formie aktu notarialnego, powstaje z chwilą wpisu do KRS,
+- dwa rodzaje wspólników - komplementariusz i komandytariusz,
+- komplementariusz - odpowiedzialność nieograniczona,
+- komandytariusz - odpowiedzialność ograniczona do wysokości sumy komandytowej,
+- reprezentuje - komplementariusz, komandytariusz ma charakter pasywny,
+- ten sam podmiot nie może być komplementariuszem i komandytariuszem,
+- popularna forma - komplementariusz jest spółka z ograniczoną odpowiedzialnością
+
+spółka komandytowa akcyjna:
+- charakter hybrydowy - łączy cechy spółki osobowej i kapitałowej,
+- umowa spółki w formie aktu notarialnego, powstaje z chwilą wpisu w KRS,
+- dwa rodzaje wspólników - komplementariusz i akcjonariusz,
+- komplementariusz - odpowiedzialność nieograniczona,
+- akcjonariusz - brak odpowiedzialności,
+- reprezentuje komplementariusz,
+- istnieją organy spółki, rada nadzorcza, odbywa się walne zgromadzenie,
+- wymagany kapitał zakładowy - 50.000zł,
+- możliwość emisji akcji,
+- właściwa forma dla tzw. przedsiębiorstw rodzinnych z prawną gwarancją utrzymania ich w rękach rodziny, przy jednoczesnym zewnętrznym dokapitalizowaniu kapitałem

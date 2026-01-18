@@ -1,0 +1,57 @@
+Oznaczenia geograficzne:
+- oznaczenia słowne odnoszące się bezpośrednio lub pośrednio do nazwy miejsca, miejscowości, regionu lub kraju (teren), które identyfikują towar jako pochodzący z tego terenu, jeżeli określona jakość, dobra opinia lub inne cechy towaru są przypisywane przede wszystkim pochodzeniu geograficznemu tego towaru
+- ochrona przez urzad patentowy i EUIPO - na wniosek
+- ochrona bezterminowa
+
+topografia układów scalonych:
+- rozwiązanie polegające na przestrzennym, wyrażonym w dowolny sposób, rozplanowaniu elementów, z których co najmniej jeden jest elementem aktywnym, oraz wszystkich lub części połączeń układu scalonego
+- ochrona przez urząd patentowy - na wniosek
+- ochrona do 10 lat, daje monopol na korzystanie z topografii układów scalonych
+
+naruszenie własności przemysłowej:
+- przepisy karne - ustawa prawo własności przemysłowej
+- zakaz naruszeń i odszkodowanie - ustawa o zwalczaniu nieuczciwej konkurencji, kodeks cywilny
+- postępowania sporne przez urzędem patentowym RP, EUIPO, EPO (sprzeciw, unieważnienie)
+
+prawo autorskie:
+- przedmiot ochrony: utwór,
+- podmiot ochrony: twórca
+
+utwór:
+- przedmiot ochrony praw autorskich
+- wszelkie wytwory ludzkiej kreatywności o indywidualnym charakterze
+- bez utworu nie ma ochrony
+- ochrona przysługuje automatycznie, nie ma potrzeby spełniania jakichkolwiek formalności
+- przedmiotem ochrony także: autorskie prawa zależne, zbiory utworów
+
+przedmiot ochrony:
+- prawa autorskie osobiste - niezbywalne, nigdy nie wygasają
+- prawa autorskie majątkowe - zbywalne, czas trwania: 70 lat
+
+dozwolony użytek:
+- korzystanie z utworu mimo braku zgody autora
+- dot. np. bibliotek czy instytucji oświatowych
+- nie dotyczy materiałów uzyskanych z sieci bez zgody i bez wynagrodzenia twórcy
+
+prawo cytatu:
+- cytat - podanie źródła zaczerpniętej informacji
+- cytowanie fragmentów większych całości
+- zakaz ingerencji w treść utworu
+- cytować można w celu: dydaktycznym, naukowym, w związku z analizą krytyczną lub "prawem gatunku twórczości"
+- możliwy cytat muzyczny i filmowy
+
+licencja:
+- upoważnienie do korzystania z utworu na wymieniowych w umowie polach eksploatacji z określeniem zakresu, miejsca i czasu tego korzystania
+- rodzaje licencji: wyłączna / niewyłączna
+- możliwość dalszych licencji (sublicencja)
+- pola eksploatacji - dozwolone obszary użytkowania utworu
+
+dochodzenie praw:
+- procedura cywilna: zanidchanie naruszania, wydanie korzyści, odszkodowanie, wydanie oświadczenia z przeprosinami
+- odpowiedzialność karna
+
+prawa autorskie w przedsiębiorstwie:
+- twórcą zawsze osoba fizyczna - inne podmioty mogą być upoważnione z tytułu licencji
+- jeżeli przedsiębiorca jest twórcą - posiada wszystkie uprawnienia z tego tytułu
+- określone obowiązki z tego tytułu
+- problem z treściami AI

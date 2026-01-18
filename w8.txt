@@ -1,0 +1,66 @@
+zadatek a zaliczka:
+- zadatek - forma zabezpieczenia umowy; w razie niewykonania umowy przez jedną stronę druga może zatrzymać zadatek lub żądać jego podwójnego zwrotu.
+- zaliczka - część płatności na poczet przyszłegoadczenia; podlega zwrotowi, jeśli umowa nie zostanie zrealizowana, niezalieżnie od winy stron.
+- zadatek pełni funkcję sankcyjną, a zaliczka - wyłącznie rozliczeniową,
+- zadatek musi być wyraźnie nazwany; w razie wątpliwości przyjmuje się, że wpłata była zaliczką
+
+umowa sprzedaży:
+- umowa nazwana
+- dowolna forma, chyba że przepisy wymagają szczególnej,
+- cechy: konsensualność, odpłatność, dwustronne zobowiązanie, wzajemność
+- kupujący: zapłata ceny i odbiór przedmiotu sprzedaży
+- sprzedający: przeniesienie własności przedmiotu umowy i wydanie kupującemu
+- cena - kwotowo lub w inny sposób umożliwiający jej ustalenie
+- rękojmia i gwarancja
+- prawo odkupu i prawo pierwokupu
+
+umowa najmu:
+- umowa nazwana
+- dowolna forma
+- wynajmujący: oddanie przedmiotu najmu w najem na czas oznaczony lub nieoznaczony; najemca: zapłata czynszu
+- brak czynszu - umowa użyczenia
+- kaucja - przy lokalu nie większa niż 12x miesięczny czynsz
+
+umowa dzierżawy:
+- umowa nazwana
+- dowolna forma
+- wydzierżawiający: oddanie rzeczy do dzierżawy i unmożliwienie pobierania pozytków; dzierżawca: zapłata czynszu
+- wypowiedzenie - terminy dłuższe niż przy najmie
+
+umowa rezerwacyjna i deweloperska:
+umowa rezerwacyjna:
+- celem jest zarezerwowanie nieruchomości na czas określony
+- gwarantuje, że deweloper nie sprzeda nieruchoności innej osobie w tym czasie
+- przydatna, gdy nie wiadomo, czy zdolność kredytowa pozwoli na kupno nieruchomości
+- nie jest umową ostateczną
+- opłata rezerwacyjna jest dobrowolna i zależy od ustaleń stron
+umowa deweloperska:
+- zobowiązuje dewelopera do przeniesienia własności nieruchomości po zakończeniu inwestycji
+- wiąże się z zawarciem faktycznej transakcji zakupu nieruchoności
+
+umowa cesji wierzytelności:
+- umowa nazwana
+- wierzyciel może bez zgody dłużnika przenieść wierzytelność na osobę trzecią (przelew), chyba że sprzeciwiałoby się to ustawie, zastrzeżeniu umownemu albo właściwości zobowiązania
+- cedent (wierzyciel) i cesjonariusz (osoba trzecia)
+- forma co do zasady dowolna
+- odpłatna lub nieodpłatna (brak PCC)
+
+umowa o świadczeniu usług:
+- umowa nienazwana
+- stosuje się odpowiednio przepisy o zleceniu
+- dot. świadczenia usług faktycznych, jednorazowych lub powtarzających się
+- umowa starannego działania
+- charakter odpłatny lub nieodpłatny
+- treść może być ukształtowana dowolnie - zasada swobody umów
+- w obrocie jako umowa b2b - rozliczenia jak jdg
+
+umowa zlecenia:
+- umowa nazwana
+- zleceniodawca i zleceniobiorca
+- dot. świadczenia usług faktycznych, jednorazowych lub powtarzających się wykonywanych osobiście
+- umowa starannego działania
+- charakter odpłatny lub nieodpłatny
+- treść może być ukształtowana dowolnie - zasada swobody umów
+- podstawa do oskładkowania i opodatkowania
+- minimalna stawka 30,50 zł brutto / godzina
+- jeżeli spełnia warunki umowy o pracę - umowa o pracę

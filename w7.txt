@@ -1,0 +1,69 @@
+temat
+
+opodatkowanie spółki:
+- podatek dochodowy od osób prawnych (CIT) - 19% lub 9%,
+- podwójne opodatkowanie - opodatkowaniu podlega dochód spółki kapitałowej, odrębny podatek pojawia się przy wypłacie zysku na rzecz akcjonariusza czy wspólnika,
+- w przypadku spółek osobowych oraz spółki cywilnej opodatkowanie jest jednokrotne - sama spółka podatku nie płaci, opodatkowanie pojawia się tylko na poziomie wspólników
+
+płatnikami podatku CIT są:
+- osoby prawne tj. podmioty, którym przyznano osobowość prawną np. spółki kapitałowe - spółki akcyjne i sp.z o.o., stowarzyszenia, spółdzielnie, fundacje,
+- jednostki organizacyjne niemające osobowości prawnej, z wyjątkiem spółek osobowych. Oznacza to, że podatnikami podatku CIT w tej grupie będą spółki kapitałowe w organizacji, spółki komandytowo-akcyjne mające siedzibę lub zarząd na terytorium RP,
+- podatkowe grupy kapitałowe - są to grupy składające się z co najmniej dwóch spółek prawa handlowego, które mają osobowość prawną i funkcjonują w związkach kapitałowych,
+- spółki niemające osobowości prawnej mające siedzibę lub zarząd w innym państwie, jeżeli prawo tego państwaw traktuje je jako osoby prawne i podlegają opodatkowaniu od całości swoich dochodów bez względu na miejsce ich osiągania
+
+opodatkowanie spółki - estoński CIT:
+- wariant opodatkowania: ryczałt od dochodów (10% lub 20% wypłaconego zysku),
+- uproszczona rachunkowość,
+- warunki:
+  - zatrudnienie co najmniej 3 pracowników w przeliczeniu na pełne etaty,
+  - pracownicy nie mogą być akcjonariuszami lub udziałowcami,
+  - 50% przychodów musi pochodzić z działalności operacyjnej,
+  - prowadzona działalność gospodarcza musi być spółką z ograniczoną odpowiedzialnością, akcyjną, komandytową bądź komandytowo-akcyjną, której akcjonariusze czy wspólnicy są wyłącznie osobami fizycznymi,
+  - spółka nie może posiadać akcji bądź udziałów w innych podmiotach
+
+usługa IP Box:
+- podatnicy prowadzący działalność badawczo-rozwojową,
+- 5% PIT lub CIT,
+- podstawą do przyznania ulgi IP Box jest spełnienie wymaganych ustawowo warunków, natomiast ptowierdzeniem słuszności jej zastosowania jest m.in. uzyskanie pozytywnej opinii organów skarbowych w interpretacji indywidualnej,
+- dwa główne elementy: działalność badawczo-rozwojowa oraz wytworzenie kwalifikowanego IP,
+- działalność badawczo-rozwojowa jest definiowana jako: "(...) działalność twórczą obejmującą badania naukowe lub prace rozwojowe, podejmowaną w sposób systematyczny w celu zwiększenia zasobów wiedzy oraz wykorzystania zasobów wiedzy do tworzenia nowych zastosowań(...)",
+- kwalifikowane IP: patent, wzór użytkowy, wzór przemysłowy, prawo z rejestracji topografii układu scalonego, autorskie prawo do programu komputerowego
+
+umowy:
+- swoboda zawierania umów - art. 353^1 k.c.:
+  Strony zawierające umowę mogą ułożyć stosunek prawny według swojego uznania, byleby jego treść lub cel nie sprzeciwiały się właściwości (naturze) stosunku, ustawie ani zasadom współżycia społecznego.
+- umowy nazwane i nienazwane,
+- umowa powstaje poprzez złożenie oświadczeń woli przez strony umowy
+- formy umowy: dorozumiana, ustna, pisemna, forma kwalifikowana
+
+elementy umowy:
+- essentialia negotii - składniki przedmiotowo istotne, określają typ danej czynności prawnej (umowy); ich braj skutkuje nieważnością umowy,
+- accidentalia negotii - składniki podmiotowo istotne, ich obecność lub brak jest obojętne z punktu widzenia kwalifikacji umowy, ale poprzez wprowadzenie ich do umowy wpływają ona na wykonywanie umowy i uważane są za istotne jej składniki,
+- naturalia negotii - składniki nieistotne (np. w ilu egzemplarzach jest umowa sporządzona)
+
+elementy umowy:
+- określenie rodzaju umowy (decydujące znaczenie - treść),
+- oznaczenie daty i miejsca zawarcia umowy,
+- oznaczenie stron umowy,
+- określenie oświadczeń stron,
+- wskazanie czasu obowiązywania umowy,
+- określenie sposobu rozwiązywania umowy (odstąpienie - koniec umowy bez oddawania rzeczy wzajemnie, wypowiedzenie - z bomby i należy oddać wzajemnie to co się dało [jeśli się nie da to pieniężnie]),
+- określenie odpowiedzialności stron umowy (kary umowne),
+- wskazanie przepisów prawa (wybór prawa),
+- rozstrzyganie sporów (rodzaj sądu, właściwość miejscowa, polubowne rozstrzyganie),
+- określenie postanowień końcowych umowy
+
+najpowszechniejsze umowy w obrocie gospodarczym:
+- umowa sprzedaży,
+- umowa najmu,
+- umowa dzierżawy,
+- umowa o świadczenie usług,
+- umowa o roboty budowlane,
+- umowa rezerwacyjna,
+- umowa deweloperska,
+- umowa wspólników,
+- umowa o przeniesienie autorskich praw majątkowych,
+- umowa cesji wierzytelności,
+- umowa zleceniem
+- umowa o dzieło,
+- umowa o pracę

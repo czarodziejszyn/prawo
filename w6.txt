@@ -1,0 +1,33 @@
+rodzaje podatków:
+- podatek dochodowy od osób fizycznych (pit)
+- podatek dochodowy od osób prawnych (cit)
+- podatek od towarów i usług (vat) - są różne rozmiary
+- podatek od czynności cywilnoprawnych (pcc)
+- podatek od nieruchomości
+- podatek akcyzowy
+- podatek od spadków i darowizn
+- podatki lokalne
+
+- opłaty: sądowa, skarbowa, urzędowa
+
+podatek od spadków i darowizm:
+- 36 120zł - jeżeli nabywcą jest osoba zaliczona do 1 grupy podatkowej - małżonek (obecny, nie były), małżonek w separacji, zstępni (np. syn, córka, wnuki, prawnuki), wstępni, ojczym, macocha, teściowie, zięć, synowa
+- 27 090zł - jeżeli nabywacą jest osoba zaliczona do 2 grupy podatkowej - zstępni rodzeństwa (np. siostrzeniec, bratanek), rodzeństwo rodziców (wuj, ciotka), zstępni i małżonkowie pasierbów, małżonkowie rodzeństwa (np. mąż siostry), rodzeństwo małżonków (np. brat żony - szwagier), małżonkowie rodzeństwa małżonkóœ (np. mąż siostry męża), małżonkowie innych zstępnych,
+- 5 733 - jeżeli nabywcą jest osoba zaliczona do 3 grupy podatkowej - wszystkie osoby niezaliczane do dwóch poprzednich grup, w tym osoby niespokrewnione z obdarowanym.
+
+opodatkowanie jdg
+- zasady ogólne: 12%, 32% - zależnie od wysokości dochodu,
+- podatek liniowy: 19% - stała stawka podatku,
+- ryczałt: 2%, 3%, 5,5%, 8,5%, 12%, 12,5%, 14%, 15%, 17%,
+- karta podatkowa: ? - zależnie od m.in. wielkości zatrudnienia, rodzaju usług
+
+opodatkowanie jdg - ryczałt:
+- stawki ryczałtu - 2%, 3%, 5,5%, 8,5%, 10%, 12%, 12,5%, 14%, 15% oraz 17%, w zależności od rodzaju wykonywanej działalności gospodarczej
+- ryczałt dla osób fizycznych, które w roku poprzedzającym rok podatkowy: uzyskały przychodzy w wysokości nieprzekraczającej 2 000 000 euro (w 2025 - 8 569 200zł); uzyskały przychodzy wyłącznie z działalności prowadzonej w formie spółki, a suma przychodów wspólników spółki z tej działalności nie przekroczyła kwoty 2 000 000 euro
+- z ryczałtu nie mogą korzystać osoby, które:
+  - opłacają w tym samym roku podatek w formie karty podatkowej
+  - korzystają z okresowego zwolnienia od podatku dochodowego
+  - osiągają w całości bądź części przychodzy z prowadzenia apteki
+  - osiągają w całości bądź części przychodzy z działalności w zakresie kupna i sprzedaży wartości dewizowych
+  - osiągają w całości bądź części przychodzy z działalności w zakresie handlu częściami i akcesoriami do pojazdów mechanicznych
+  - wytwarzają wyroby opodatkowane podatkiem akcyzowym - z wyjątkiem wytwarzania energii elektrycznej z odnawialnych źródeł energii

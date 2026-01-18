@@ -1,0 +1,41 @@
+działania prawne:
+- czynienie: czyny zgodne z prawem, czyny niezgodne z prawem, akty prawne
+- zaniechanie
+
+podmioty stosunku prawnego:
+- zdolność prawna i zdolność do czynności prawnych
+- osoby fizyczne (od 18 roku w pełni zdrowa na umyśle itd.)
+- osoby prawne (spółka - zarząd spółki - osoba reprezentująca tę spółkę jako osoba prawna)[spółki handlowe, fundacje stowarzyszenia]:
+  - typ korporacyjny (cel: zrzeszanie ludzi),
+  - typ fundacyjny (element składowy to majątek - cel zgromadzenie majątku)
+- jednostki organizacyjne nieposiadające osobowości prawnej (nie wpisywana do krajowych rejestrów, mogą nie mieć struktury, np. część spółek (jawna, partnerska, komandytowa), wspólnota mieszkaniowa, partie polityczne niewpisane do ewidencji)
+
+przedmiot stosunku prawnego:
+- rzeczy (wszystko co można dotknąć):
+  - ruchomości (można przstawić),
+  - nieruchomości (zespojone z gruntem)
+- zachowania (działanie, czynienie, świadczenie)
+- inne przedmioty materialne (nie do końca rzecz ale dopuszczone do obrotu - np. ciecze i gazy, zwierzęta w stanie wolnym)
+- przedmioty niematerialne (głównie prawa - np. prawo własności intelektualnej - z patentu)
+
+treść stosunku prawnego:
+- uprawnienia (możliwość, prawo)[można pobierać pożytki z rzeczy np. posadzić coś na swojej ziemi i to sprzedawać]
+- obowiązki (ograniczają strefę wolności)
+
+żródła prawa:
+- przepisy prawa powszechengo obowiązującego (obowiązują wszędzie)
+- przepisy prawa o charakterze wewnętrznym (obowiązują np. w ramach organizacji, instytucji jako pracownik lub klient)
+
+prawo powszechnie obowiązujące:
+- wymóg zgodności aktów niższego rzędu z aktami wyższego rzędu
+- uchylenie, zmiana lub zawieszenie tylko przez wydanie nowego aktu tego samego szczebla
+- wyłączność ustawy
+- zakaz wydawania aktów najniższego szczebla bez upoważnienia w akcie wyższego szczebla
+- warunek wejścia w życie - ogłoszenie
+
+hierarchia źródeł prawa:
+1. kostytucja,
+2. ratyfikowane umowy międzynarodowe,
+3. ustawy,
+4. rozporządzenia,
+5. akty prawa miejscowego

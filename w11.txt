@@ -1,0 +1,69 @@
+ochrona danych osobowych:
+- podstawa na szczeblu UE - Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016r. w sprawie ochrony danych osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE
+- ustawa o ochronie danych osobowych - wdrożenie RODO
+- dane osobowe - wszelkie informacje pozwalające na identyfikację danej osoby
+- dla przetwarzania danych - świadoma i dobrowolna zgoda
+- prawo do sprostowania danych, prawo do usunięcia danych (prawo do bycia zapomnianym)
+- inspektor ochrony danych osobowych (IOD)
+
+ochrona danych osobowych - podstawowe zasady:
+- zasada zgodności z prawem, rzetelności i przejrzystości
+- zasada ograniczenia celu
+- zasada minimalizacji danych
+- zasada prawidłowości
+- zasada ograniczenia przechowywania
+- zasada integralności i poufności
+- zasada rozliczalności
+
+ochrona danych osobowych - prawa:
+- prawo dostępu do danych
+- prawo do sprostowania danych
+- prawo do usunięcia danych (prawo do bycia zapomnianym)
+- prawo do ograniczenia przetwarzania
+- prawo do przenoszenia danych
+- prawo do sprzeciwu
+- prawo do niepodlegania zautomatyzowanemu podejmowaniu decyzji
+
+ochrona danych osobowych - marketing:
+- zgoda na marketing
+- profilowanie
+- transparentność
+- prawo do sprzeciwu
+
+ochrona danych osobowych - sankcje:
+- kary pieniężne - maksymalnie 20 mln euro lub 4% całkowitego światowego obrotu przedsiębiorstwa
+- prezes urzędu ochrony danych osobowych
+- prezes urządu ochrony danych osobowych
+- odpowiedzialność karna
+- odpowiedzialność cywilna
+
+sygnaliści:
+- dyrektywa parlamentu europejskiego i rady UE 2019/1937 z dnia 23 października 2019 roku w sprawie ochrony osób zgłaszających naruszenia prawa Unii
+- ustawa o ochronie sygnalistów
+- definicja sygnalisty
+- zgłoszenia wewnętrzne, zewnętrzne i publiczne
+- zakaz stosowania środków odwetowych
+- środki ochrony sygnalisty
+- obowiązek wprowadzenia procedur zgłoszeń - przedsiębiorstwo zatrudniające ponad 50 pracowników (pełen etat)
+
+marketing:
+- brak jednej ustawy regulującej kwestię marketingu
+- ustawa o ochronie konkurencji i konsumentów - zakazuje praktyk rynkowych naruszających konkurencję
+- ustawa o przeciwdziałaniu nieuczciwym praktykom rynkowym - relacja B2C
+- ustawa o zwalczaniu nieuczciwej konkurencji - relacja B2B
+- reklama musi być rozpoznawalna, odróżnialna od innych części
+
+nieuczciwa konkurencja:
+- sprzeczność reklamy z dobrymi obyczajami
+- uchybianie godności człowieka
+- wprowadzanie klienta w błąd
+- wykorzystywanie łatwowierności odbiorcy
+- kontrola - urząd ochrony konkurencji i konsumentów
+
+o czym należy pomyśleć:
+- ochrona wizerunku
+- prawo cytatu
+- regulamin portali (np. facebook)
+- dobra osobiste
+- bezpieczeństwo przechowywania danych
+- dane osobowe i profilowanie
