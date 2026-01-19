@@ -64,3 +64,13 @@ umowa zlecenia:
 - podstawa do oskładkowania i opodatkowania
 - minimalna stawka 30,50 zł brutto / godzina
 - jeżeli spełnia warunki umowy o pracę - umowa o pracę
+
+umowa o dzieło:
+- umowa nazwana
+- zamawiający i wykonawca
+- przedmiotem jest wykonanie określonego dzieła za wynagrodzeniem
+- umowa rezultatu
+- treść może być ukształtowana dowolnie - zasada swobody umów
+- nie stanowi podstawy do oskładkowania (chyba, że umowa z własnym pracownikiem), tylko opodatkowania
+- brak minimalnej stawki
+- jeżeli spełnia warunki umowy o pracę - umowa o pracę
