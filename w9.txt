@@ -25,3 +25,16 @@ patent:
 - przydatny udział rzecznika patentowego
 - ochrona patentowa - do 20 lat
 - patent - monopol na korzystanie z wynalazku
+
+wzór przemysłowy:
+- nowa i posiadająca indywidualny charakter postać wytworu lub jego części, nadana mu w szczególności przez cechy linii, konturów, kształtów, kolorystykę, fakturę lub materiał wytworu oraz przez jego ornamentację
+- ochrona przez urząd patentowy i urząd unii europejskiej ds. własności przemysłowej (eupio) - na wniosek
+- ochrona do 25 lat, daje monopol na korzystanie ze wzoru użytkowego
+
+znak towarowy:
+- każde oznaczenie umożliwiające odróżnienie towarów jednego przedsiębiorstwa od towarów innego przedsiębiorstwa oraz możliwe do przedstawienia w rejestrze znaków towarowych w sposób pozwalajązy na ustalenie jednoznacznego i dokładnego przedmiotu udzielonej ochrony
+- ochrona przez urząd patentowy i eupio - na wniosek
+- ochrona w klasach towarów i usług, tzw. klasyfikacja nicejska (45 klas)
+- ochrona bezterminowa, daje monopol na korzystanie ze znaku towarowego
+- obejmuje ochronę także firmy przedsiębiorcy i domeny internetowej
+- ochrona także bez rejestracji - na podstawie rzeczywistego użytkowania (pierszeństwo) - ochrona lokalna
